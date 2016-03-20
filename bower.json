@@ -1,0 +1,25 @@
+{
+  "name": "haroldsmorningcommute",
+  "authors": [
+    "Joshua Collaco <john.orion.ray@gmail.com>"
+  ],
+  "description": "Assingment 3",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/DectorArc/HaroldsMorningCommute",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "Physijs": "physijs#*"
+  }
+}
